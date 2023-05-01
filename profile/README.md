@@ -25,10 +25,10 @@
 
 | Contributor                             | Role      | Introduce |
 | --------------------------------------- | --------- | --------- |
-| [김민선](#)                             | Frontend  |           |
-| [오주영](https://github.com/ohjooyeong) | Frontend  |           |
+| [김민선](#)                             | Frontend/android  |           |
+| [오주영](https://github.com/ohjooyeong) | Frontend/Backend  |           |
 | [왕태웅](#)                             | ML/Server |           |
-| [이지아](#)                             | Frontend  |           |
+| [이지아](#)                             | Frontend/ios  |           |
 
 ### \*\*📚 [싱그럼] 애플리케이션입니다
 
