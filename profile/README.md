@@ -70,20 +70,23 @@
 └─.prettierrc
 
 🔥 server🔥
-├── main
-│ ├─crewcrew
-│ │ ├─aop
-│ │ ├─config
-│ │ │ ├─security
-│ │ │ ├─websocket
-│ │ │ └─redisconfig.java
-│ │ ├─controller
-│ │ ├─dto
-│ │ ├─entity
-│ │ ├─repositoriy
-│ │ ├─response
-│ │ ├─service
-│ │ └─util
+├── src
+│ │─aop
+│ │─config
+│ │ ├─security
+│ │ ├─websocket
+│ │ └─redisconfig.java
+│ ├─controller
+│ ├─dto
+│ ├─entity
+│ ├─repositoriy
+│ ├─response
+│ ├─service
+│ └─util
+├─package.json
+├─.eslintrc.js
+├─tsconfig.json
+└─.prettierrc
 ```
 
 ## 🛢 Database ERD
